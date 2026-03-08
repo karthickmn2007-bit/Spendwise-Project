@@ -1,0 +1,4 @@
+Create .env with :
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/spendwise
+JWT_SECRET=your_secret_key
